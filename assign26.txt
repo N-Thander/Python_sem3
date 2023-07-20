@@ -1,0 +1,7 @@
+nas,10
+sam,20
+sa,30
+nas,10
+diluc,20
+mona,30
+cyno,40

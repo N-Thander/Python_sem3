@@ -1,0 +1,41 @@
+1    Write a Python program to find the maximum number from three given numbers.
+2    Write a Python program to find factors of a given number.
+3    Write a Python program to compute sum of digits of a given number.
+4    Write a Python program to compute the greatest common divisor of two given positive integers.
+5    Write a Python program to print the following pattern using nested for loop.
+      *
+      * *
+      * * *
+      * *
+      *
+6    Write a Python program to convert a given decimal number into corresponding binary number.
+7    Write a Python program that accepts a string from the user and check whether it is a palindrome or not.
+8    Write a Python program to convert a time from 12 hour to 24 hour format. (Hints: Input is 05:23 PM and output is 17:23 )
+9    Write a Python program that takes your name as input, removes all vowels from your name and display the resultant string.
+10    Write a Python program to check a given string contains all unique characters or not.
+11    Write a Python that accepts your full name and display in short form. (Hints: Input is “Sachin Ramesh Tendulkar” and output is “S. R. Tendulkar”.)
+12    Write a Python program to count total number of words in a given string.
+13    Write a Python program to put Even and Odd numbers in separate lists.
+14    Write a Python program to remove duplicates elements from a given list.
+15    Write a Python program to find the second largest number from a given list.
+16    Write a Python program to implement Set Union and Intersection operations.
+17    Write a Python program that will show the following operations on tuple.
+    a) Creating Tuples,             b) Accessing tuple elements,     c) Concatenation of Tuples,
+    d) Deleting a Tuple
+18    Write a Python program that will accept names and roll numbers from the user and add these items into dictionary. Also use the following options:
+    a) Add Key-Value Pair to form Dictionary     b) Check a given key exists in Dictionary or not
+    c) Remove a given Key from Dictionary    
+19    Write a Python program using a function to print all prime factors of a given number.
+20    Write a Python function that will return the Nth largest element from a list.
+21    Write a Python function to find the factorial of a given number using recursion.
+22    Write a Python function to find an element from a given list using recursive binary search technique.
+23    Write a Python program to find the max of two given numbers using lamda function with if-else statement.
+24    Write a Python program to differentiate the scope of global and local variables.    
+25    Write a Python program for writing and reading in file.
+26    Write a Python program to write names and roll numbers of your friends in a file, then print names of your friends for a given range of roll numbers.
+27    Write a Python program to the square root of n random numbers using Math and Random module.
+28    Write a Python program to create a user defined module/functions and import the modules to access the functions. Hints: Implement factorial function.
+29    Write a python program to handle index-out-of-range exception.
+30    Write a python program to handle division-by-zero exception.
+31    Write a python program to handle exception using raise command.
+32    Write a python program to handle exception using multiple except blocks.
